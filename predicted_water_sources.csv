@@ -1,0 +1,3 @@
+region,source_type,avg_rainfall_mm,last_rain_days,pop_served,nearby_agriculture,temp_c,soil_moisture,predicted_risk
+Errachidia,tap_in_home,12,40,80,yes,37,very_low,low
+Unknown_7,river,60,5,300,no,25,medium,high
