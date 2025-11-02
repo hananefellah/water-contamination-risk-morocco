@@ -63,8 +63,8 @@ The dataset contains 100 records of water sources with the following features:
 ## Geospatial Visualization
 
 A map showing contamination risk across Moroccan water sources:
+![water contamination points](https://github.com/user-attachments/assets/8d7ebc3b-5792-492d-b0af-612e8eb90a65)
 
-![Water Contamination Map](images/morocco_contamination_risk_map.png)
 
 *Interactive map created in Folium and saved as a screenshot.*
 
