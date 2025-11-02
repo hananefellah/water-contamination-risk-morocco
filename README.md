@@ -42,8 +42,6 @@ The dataset contains 100 records of water sources with the following features:
 - Handled categorical variables using **Label Encoding**  
 - Examined contamination risk across different regions and source types  
 
-![Feature Correlation Heatmap](images/feature_correlation_heatmap.png)
-
 ---
 
 ## Machine Learning Model
@@ -52,9 +50,6 @@ The dataset contains 100 records of water sources with the following features:
 - **Train/Test Split:** 80% / 20%  
 - **Hyperparameter Tuning:** GridSearchCV to optimize `n_estimators`, `max_depth`, `min_samples_split`, and `min_samples_leaf`  
 
-**Feature Importance:**
-
-![Feature Importance](images/feature_importance.png)
 
 **Sample Predictions for New Water Sources:**
 
