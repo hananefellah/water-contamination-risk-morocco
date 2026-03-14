@@ -49,14 +49,6 @@ This project builds a machine learning system that predicts the **contamination 
 
 ---
 
-## 📈 Visualizations
-
-![Model Comparison](plots/06_model_comparison.png)
-![SHAP Importance](plots/09_shap_importance.png)
-![Confusion Matrix](plots/07_confusion_matrix.png)
-
----
-
 ## 🔍 SHAP Explainability - What Drives Contamination Risk?
 
 | Rank | Feature | Mean SHAP | Interpretation |
