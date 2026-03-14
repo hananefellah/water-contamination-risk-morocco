@@ -1,0 +1,101 @@
+source_id,region,source_type,avg_rainfall_mm,last_rain_days,pop_served,nearby_agriculture,temp_c,soil_moisture,contamination_risk
+S1,Rabat,river,82,26,370,no,41,very_low,high
+S2,Rabat,spring,93,11,679,no,35,low,high
+S3,El Jadida,river,69,91,912,yes,33,very_low,high
+S4,Tanger,well,50,33,92,no,24,high,medium
+S5,Errachidia,shared_tap,81,52,815,no,26,low,low
+S6,Errachidia,spring,68,39,198,no,44,very_low,low
+S7,Tanger,river,59,58,603,no,34,high,very_high
+S8,Errachidia,spring,120,34,163,no,20,very_low,low
+S9,Fes,spring,66,81,292,yes,29,high,very_high
+S10,Agadir,spring,117,32,925,yes,17,very_low,medium
+S11,Errachidia,spring,4,92,1000,yes,37,high,medium
+S12,Taza,spring,84,17,54,yes,33,very_low,low
+S13,Taza,spring,23,31,952,yes,18,high,medium
+S14,Tanger,river,64,26,732,yes,42,low,low
+S15,Rabat,river,36,72,219,no,22,high,very_high
+S16,Agadir,spring,97,53,204,yes,32,very_low,very_high
+S17,Taza,spring,22,1,452,no,25,medium,high
+S18,Fes,well,41,8,635,no,43,low,medium
+S19,Tanger,well,23,35,714,no,19,high,high
+S20,Rabat,well,71,12,939,no,25,medium,high
+S21,Agadir,spring,79,50,495,no,32,very_low,high
+S22,Tanger,spring,96,2,628,no,30,high,medium
+S23,Marrakech,river,48,68,382,yes,28,medium,low
+S24,Marrakech,river,115,12,180,yes,28,very_low,very_high
+S25,Agadir,river,106,7,419,yes,26,low,low
+S26,Taza,well,114,87,127,yes,30,low,low
+S27,Tanger,shared_tap,11,32,281,no,37,high,low
+S28,Marrakech,well,3,64,369,no,40,very_low,high
+S29,Rabat,river,0,89,201,yes,31,medium,medium
+S30,Errachidia,well,34,1,393,yes,23,high,low
+S31,El Jadida,river,115,9,182,yes,41,high,low
+S32,Tanger,spring,49,13,109,yes,45,high,medium
+S33,Ouarzazate,river,118,40,248,yes,43,low,high
+S34,Ouarzazate,well,24,18,848,no,21,high,high
+S35,Rabat,well,107,59,36,no,41,very_low,very_high
+S36,Marrakech,shared_tap,18,11,357,no,16,low,high
+S37,Rabat,shared_tap,114,10,233,no,34,high,low
+S38,Rabat,spring,76,67,658,no,27,low,high
+S39,Agadir,spring,96,53,66,no,38,high,low
+S40,Ouarzazate,river,108,52,371,yes,35,low,high
+S41,Errachidia,shared_tap,106,59,849,no,25,medium,very_high
+S42,Rabat,well,39,59,817,yes,22,high,very_high
+S43,Fes,well,9,88,209,yes,16,very_low,high
+S44,El Jadida,shared_tap,30,84,544,yes,23,low,high
+S45,Azilal,spring,92,83,946,no,44,low,low
+S46,Taza,shared_tap,119,36,133,no,19,low,medium
+S47,Tanger,river,57,96,471,yes,20,very_low,high
+S48,Agadir,spring,114,56,885,yes,31,very_low,high
+S49,Tanger,river,110,17,876,yes,23,medium,very_high
+S50,Marrakech,river,105,20,683,yes,27,medium,high
+S51,El Jadida,river,15,51,472,yes,41,medium,high
+S52,Taza,spring,90,47,725,no,22,low,medium
+S53,Azilal,shared_tap,36,6,827,no,21,high,high
+S54,Ouarzazate,shared_tap,106,74,846,no,21,low,high
+S55,Azilal,well,96,37,220,no,16,very_low,low
+S56,Fes,spring,76,86,618,no,33,high,high
+S57,El Jadida,well,51,21,595,no,30,high,low
+S58,Ouarzazate,well,101,6,791,no,22,medium,medium
+S59,Taza,shared_tap,48,97,734,no,29,high,low
+S60,Rabat,spring,92,47,30,no,35,very_low,medium
+S61,Agadir,river,101,59,318,no,22,high,high
+S62,Marrakech,river,23,76,771,yes,32,low,very_high
+S63,Ouarzazate,shared_tap,97,69,605,no,15,high,low
+S64,El Jadida,river,25,89,302,yes,28,high,high
+S65,El Jadida,shared_tap,12,54,960,yes,30,high,very_high
+S66,Rabat,shared_tap,53,45,667,yes,38,high,high
+S67,Tanger,well,90,50,542,no,19,medium,medium
+S68,Agadir,spring,21,61,227,yes,31,very_low,low
+S69,Tanger,river,106,60,855,no,19,very_low,medium
+S70,Tanger,spring,112,17,590,no,34,medium,low
+S71,Azilal,spring,51,24,159,yes,20,medium,very_high
+S72,Rabat,river,77,2,925,no,30,medium,medium
+S73,Fes,river,113,74,365,no,33,medium,medium
+S74,Rabat,river,90,70,280,no,21,high,medium
+S75,Ouarzazate,shared_tap,119,86,297,no,25,high,medium
+S76,Marrakech,well,54,18,358,yes,42,low,medium
+S77,El Jadida,shared_tap,78,92,615,no,30,very_low,high
+S78,Taza,spring,41,36,212,no,28,medium,high
+S79,Taza,river,43,12,294,no,23,very_low,high
+S80,Taza,well,69,31,287,yes,36,very_low,very_high
+S81,Rabat,river,72,90,213,no,34,low,very_high
+S82,Agadir,shared_tap,119,73,773,yes,24,high,high
+S83,Rabat,shared_tap,28,45,173,yes,21,low,medium
+S84,Rabat,river,36,92,952,no,19,very_low,very_high
+S85,Rabat,spring,11,26,526,yes,20,high,high
+S86,Tanger,shared_tap,112,72,93,no,35,high,medium
+S87,Marrakech,shared_tap,7,26,465,yes,34,low,high
+S88,Taza,shared_tap,8,7,993,yes,39,high,high
+S89,Fes,river,22,28,44,yes,31,medium,low
+S90,Taza,well,3,75,625,yes,45,low,low
+S91,Fes,well,81,63,617,yes,18,low,high
+S92,Rabat,shared_tap,51,74,894,yes,45,very_low,medium
+S93,Azilal,river,107,86,971,no,39,low,medium
+S94,Agadir,spring,71,92,85,no,31,medium,medium
+S95,Rabat,river,9,38,583,no,40,high,low
+S96,Taza,well,57,14,920,yes,16,high,medium
+S97,Taza,shared_tap,94,3,384,yes,42,high,very_high
+S98,Rabat,river,59,67,300,yes,16,medium,medium
+S99,Fes,spring,55,13,937,yes,19,low,medium
+S100,El Jadida,shared_tap,64,75,874,yes,18,low,medium
